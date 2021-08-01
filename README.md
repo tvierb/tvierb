@@ -1,5 +1,8 @@
 # tvierb blog
 
+[//]: # MENUSTART
+[//]: # ENDMENU
+
 Menu
 * [Impressum](impressum.md)
 * [Über mich](aboutme.md)
