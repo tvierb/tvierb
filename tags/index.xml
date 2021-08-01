@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on tvierb blog</title>
+    <link>http://tvierb.github.io/tags/</link>
+    <description>Recent content in Tags on tvierb blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+        <atom:link href="http://tvierb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogstart</title>
+      <link>http://tvierb.github.io/posts/2021/first-post/</link>
+      <pubDate>Sun, 01 Aug 2021 09:02:41 +0200</pubDate>
+      
+      <guid>http://tvierb.github.io/posts/2021/first-post/</guid>
+      <description>&lt;h1 id=&#34;erster-hugo-post&#34;&gt;Erster hugo post&lt;/h1&gt;
+&lt;p&gt;So, dies ist nun also mein erster Post mittels &amp;ldquo;hugo&amp;rdquo; auf github.io.&lt;/p&gt;
+&lt;p&gt;Geholfen hat mir u.a. &lt;a href=&#34;https://dev.to/usamasubhani/setup-a-blog-with-hugo-and-github-pages-562n&#34;target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;dieser Artikel von usama subhani&lt;/a&gt;
+ und diese &lt;a href=&#34;https://guides.github.com/features/mastering-markdown/&#34;target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Hilfe zu Github-Markdown&lt;/a&gt;
+, um die externen Seiten zu verlinken.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
